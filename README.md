@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=hiAiZJWWFZs](https://youtu.be/dzQy1qLAdIo)">
+  <a href="https://youtu.be/dzQy1qLAdIo">
+      <img src="https://img.youtube.com/vi/dzQy1qLAdIo/maxresdefault.jpg" />
   </a>
 </p>
 
