@@ -32,12 +32,6 @@
             @endforeach
         </div>
         <aside class="space-y-4">
-            <div class="bg-red-50 border border-etecRed/30 rounded-xl p-5 shadow-sm">
-                <h3 class="font-semibold text-etecRed mb-2">{{ __('site.jobs.tip_title') }}</h3>
-                <p class="text-xs text-gray-700">
-                    {{ __('site.jobs.tip_text') }}
-                </p>
-            </div>
         </aside>
     </section>
 @endsection
