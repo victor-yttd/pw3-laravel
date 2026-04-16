@@ -40,7 +40,7 @@ O projeto inclui recursos voltados para a praticidade e organização da unidade
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/etecmid.git
+   git clone https://github.com/victor-yttd/etecmid.git
    ```
 
 2. **Instale as dependências:**
